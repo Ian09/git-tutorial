@@ -2,6 +2,6 @@
 
 - feature-A
 I am conflict solver
-- feature-C
+- feature-C, I will do something
 - feature-D
 
