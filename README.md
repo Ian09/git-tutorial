@@ -1,6 +1,6 @@
 # Git tutorial
 
 - feature-A
-- fioorrrrrooooox-B I will do a conflict
+I am conflict solver
 - feature-C
 
