@@ -1,6 +1,6 @@
 # Git tutorial
 
 - feature-A
-- fix-B
+- fix-B I will do a conflict
 - feature-C
 
