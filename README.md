@@ -1,6 +1,6 @@
 # Git tutorial
 
-- feature-A
+- feTTTature-A
 I am conflict solver
 - yingyingyingfeature-C
 - feature-D
